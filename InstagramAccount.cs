@@ -14,7 +14,7 @@ namespace InstagramPrivateScraper
         public static CookieContainer cookies;
         public InstagramAccount(string user = "", string pwd= "", CookieContainer cookie = null)
         {
-            username = user;
+            username = user; luxialux
             password = pwd;
             cookies = cookie;
         }
